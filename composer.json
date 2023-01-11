@@ -1,0 +1,25 @@
+{
+  "name": "chasecrawford/stats",
+  "description": "A PHP class which implements various statistical functions for the sport of basketball.",
+  "version": "0.1.0",
+  "type": "library",
+  "keywords": ["statistics", "basketball"],
+  "homepage": "https://github.com/chasecrawford/stats",
+  "time": "2023-01-11",
+  "authors": [
+    {
+      "name": "Chase Crawford",
+      "homepage": "https://chasecrawford.dev",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ChaseCrawford\\Stats\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
