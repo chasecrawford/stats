@@ -1,4 +1,4 @@
-# Ratings
+# Stats
 
 A PHP class which implements various statistical functions for the sport of basketball
 
